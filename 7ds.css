@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+span {
+	color: blue;
+}
+li.nor {
+	font-weight: bold;
+}
+li.red {
+	color: red;
+	font-weight: bold;
+}
+li.green {
+	color: green;
+	font-weight: bold;
+	font-size: 20px;
+}
+li.gold {
+	color: gold;
+	font-weight: bold;
+	font-size: 23px;
+}
+li.silver {
+	color: silver;
+	font-weight: bold;
+	font-size: 22px;
+}
+li.indigo {
+	color: indigo;
+	font-weight: bold;
+	font-size: 20px;
+}
